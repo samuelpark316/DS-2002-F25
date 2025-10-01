@@ -1,0 +1,34 @@
+[
+  {
+    "course_id": "DS2002",
+    "section": "001",
+    "title": "Data Science Systems",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Austin Rivera",
+        "role": "Primary"
+      },
+      {
+        "name": "Heywood Williams-Tracy",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "CS3240",
+    "section": "001",
+    "title": "Software Engineering",
+    "level": 300,
+    "instructors": [
+      {
+        "name": "Derrick Stone",
+        "role": "Primary"
+      },
+      {
+        "name": "Brandon Istafan",
+        "role": "TA"
+      }
+    ]
+  }
+]
